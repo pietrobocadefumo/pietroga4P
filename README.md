@@ -1,4 +1,2 @@
 # russia
-# Coriculo
-# Coriculo
-# Coriculo
+
